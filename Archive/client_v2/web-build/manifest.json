@@ -1,0 +1,8 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "LogU-IOTA-Explorer",
+  "short_name": "LogU-IOTA-Explorer",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}

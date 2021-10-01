@@ -1,0 +1,12 @@
+site_name: LogU IOTA Project
+repo_url: https://github.com/J0nasW/logu-iota
+nav:
+    - Home: index.md
+    - Concept Paper: concept_paper.md
+    - Thoughts: thoughts.md
+    - User Guide:
+        - Examples: examples.md
+        - Installation Prototype: prototype.md
+        - Installation Client: client.md
+    - About: about.md
+theme: readthedocs

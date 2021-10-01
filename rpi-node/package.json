@@ -1,0 +1,36 @@
+{
+  "name": "logu-iota",
+  "version": "1.0.0",
+  "description": "A first IOTA implementation for testing purposes.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JW",
+  "license": "ISC",
+  "dependencies": {
+    "@iota/converter": "^1.0.0-beta.cda45022",
+    "@iota/core": "^1.0.0-beta.cda45022",
+    "@iota/extract-json": "^1.0.0-beta.cda45022",
+    "@iota/mam": "^0.5.0",
+    "@serialport/parser-readline": "^9.0.1",
+    "chalk": "^4.1.0",
+    "crypto-js": "^3.3.0",
+    "fs": "0.0.1-security",
+    "gps": "^0.6.0",
+    "gps-module": "^1.0.0",
+    "hybrid-crypto-js": "^0.2.4",
+    "keygenerator": "^1.0.4",
+    "moment": "^2.29.1",
+    "node-dht-sensor": "0.4.2",
+    "node-gps": "0.0.1",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2",
+    "rust": "^0.1.6",
+    "serialport": "^9.0.1",
+    "simple-crypto-js": "^2.5.0",
+    "simple-encryptor": "^4.0.0",
+    "utf-8": "^2.0.0",
+    "zeromq": "^5.2.0"
+  }
+}

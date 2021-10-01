@@ -1,0 +1,13 @@
+# Install IOTA from a Wheel file
+# https://client-lib.docs.iota.org/docs/libraries/python/getting_started
+
+cryptography
+flask
+apscheduler
+
+# For the RPi Temperature and Humidity Sensor
+dht11
+RPi.GPIO
+
+# For the NEO 6M GPS Module
+pynmea2

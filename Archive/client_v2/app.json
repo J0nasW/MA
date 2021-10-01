@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "LogU-IOTA-Explorer",
+    "slug": "LogU-IOTA",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
